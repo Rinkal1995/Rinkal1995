@@ -57,12 +57,12 @@ A utility for interacting with IoT devices via Bluetooth Low Energy (BLE), suppo
 - **Role:** Lead Developer
 
 
-#### 6. **[7 Minute Workout](https://github.com/rinkalrupani/7MinuteWorkout)**
+#### 6. **[7 Minute Workout]**
 A fitness app offering guided workouts with a focus on quick and effective training.
 - **Technologies used:** Objective-C, UIKit, Core Data
 - **Achievements:** Enhanced user interface, boosting engagement by 40%.
 
-#### 7. **[Wallet Manager](https://github.com/rinkalrupani/WalletManager)**
+#### 7. **[Wallet Manager]**
 A personal finance app that helps users manage their wallets and expenses.
 - **Technologies used:** Objective-C, Core Data, API Integration
 
